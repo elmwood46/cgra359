@@ -5,3 +5,7 @@ Learning description: I will make a fully functioning 2d game during this course
 
 Link to the paper prototype: https://docs.google.com/document/d/1ToJz6phXBK4p32nkH3HMoxVay27Nh8pcwbV8YeGoz3s/edit?usp=sharing
 Link to the itch.io page: https://elmwood.itch.io/swmg
+
+Roles: shockingly, nobody wanted to work on this game despite my incredibly professional and not at all off-putting or insane pitch. This makes me the CEO of shadow wizard money gang, in terms of animal roles, I am a regular FurAffinity of Owl, Bear, Cat, Rabbit and Wolf combined.
+
+Outcomes: I'll make a fun game, which is good enough to sell and make a profit from.
